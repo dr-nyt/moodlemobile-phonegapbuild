@@ -2,22 +2,22 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.dataletix.mobile"
         versionCode = "37000"
         android-versionCode="37000"
-        version   = "3.7.0">
-    <name>Moodle</name>
+        version   = "0.0.1">
+    <name>Dataletix</name>
 
     <description>
-        Moodle official app
+        Dataletix official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        Dataletix Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.0</string>
+        <string>0.0.1</string>
     </edit-config>
 
     <gap:platform name="ios" />
