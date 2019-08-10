@@ -2,14 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.dataletix.mobile"
+        id        = "com.dataletix.beaconhouseapp"
         versionCode = "37000"
         android-versionCode="37000"
         version   = "0.0.1">
-    <name>Dataletix</name>
+    <name>BeaconHouse</name>
 
     <description>
-        Dataletix official app
+        BeaconHouse official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
